@@ -1,0 +1,21 @@
+{
+  "full_name": "Divrina Vyas",
+  "name": "Divs",
+  "current_role": "Manager - GenAI",
+  "location": "Mumbai",
+  "email": "divrinavyas@gmail.com",
+  "linkedin": "www.linkedin.com/in/divrina-vyas-72984b137",
+  "specialties": [
+    "Agent",
+    "LLM",
+    "Python"
+  ],
+  "years_experience": 9,
+  "education": [
+    {
+      "degree": "BTech",
+      "institution": "Amity",
+      "year": "2012"
+    }
+  ]
+}

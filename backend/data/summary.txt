@@ -1,0 +1,6 @@
+I am a Manager in GenAI with 9 of experience in Data Science. 
+My expertise includes Agentic AI, GenAI, Python.
+
+Currently, I'm focused on CrewAI, Langgraph, Autogen.
+
+My background includes GenAI, Python.
